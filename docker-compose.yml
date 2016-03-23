@@ -9,8 +9,8 @@ services:
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf
       - ./ssl.conf:/etc/nginx/ssl.conf
-      - /local/data/certificates:/isaac-certs
-      - /local/data/certificates/letsencrypt:/letsencrypt
+      - /local/data/dhparam.pem:/dhparam.pem
+      - /local/data/certificates:/letsencrypt
       - ./html:/usr/share/nginx/html
     restart: always
   letsencrypt:
@@ -20,7 +20,7 @@ services:
       dockerfile: Dockerfile-letsencrypt
     image: isaac-letsencrypt
     volumes:
-      - /local/data/certificates/letsencrypt:/etc/letsencrypt
+      - /local/data/certificates:/etc/letsencrypt
       - ./html:/var/www
 networks:
   default:

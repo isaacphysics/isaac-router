@@ -6,6 +6,8 @@ WORKDIR /
 
 RUN git clone https://github.com/letsencrypt/letsencrypt
 
+# This will cause letsencrypt to bootstrap itself, meaning it will run quickly when we actually need it.
 RUN /letsencrypt/letsencrypt-auto plugins
 
+# Don't actually do anything when run.
 CMD /bin/true
