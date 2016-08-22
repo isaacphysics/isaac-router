@@ -13,6 +13,9 @@ services:
       - /local/data/certificates:/letsencrypt
       - ./html:/usr/share/nginx/html
     restart: always
+    external_links:
+      - "isaac-tickets:isaac-tickets"
+      - "isaac-editor:isaac-editor"
   letsencrypt:
     container_name: letsencrypt
     build:
