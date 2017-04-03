@@ -23,7 +23,9 @@ api-dev.isaacscience.org,\
 api-staging.isaacscience.org,\
 api-test.isaacscience.org,\
 \
-docker.isaacscience.org\
+docker.isaacscience.org,\
+\
+owncloud.isaacscience.org\
   --email webmaster@isaacphysics.org \
   --agree-tos
 
