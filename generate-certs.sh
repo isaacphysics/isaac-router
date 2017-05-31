@@ -19,9 +19,6 @@ isaacchemistry.org,\
 www.isaacchemistry.org,\
 \
 api.isaacscience.org,\
-api-dev.isaacscience.org,\
-api-staging.isaacscience.org,\
-api-test.isaacscience.org,\
 \
 docker.isaacscience.org,\
 \
