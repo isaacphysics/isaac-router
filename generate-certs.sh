@@ -24,5 +24,6 @@ docker.isaacscience.org,\
 \
 owncloud.isaacscience.org\
   --email webmaster@isaacphysics.org \
+  --no-eff-email \
   --agree-tos
 
