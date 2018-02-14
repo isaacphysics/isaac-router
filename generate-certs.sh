@@ -14,9 +14,13 @@ test.isaacphysics.org,\
 labs.isaacphysics.org,\
 tickets.isaacphysics.org,\
 editor.isaacphysics.org,\
+cdn.isaacphysics.org,\
 \
 isaacchemistry.org,\
 www.isaacchemistry.org,\
+\
+isaacmaths.org,\
+www.isaacmaths.org,\
 \
 api.isaacscience.org,\
 \
