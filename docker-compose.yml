@@ -9,6 +9,7 @@ services:
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf
       - ./ssl.conf:/etc/nginx/ssl.conf
+      - ./set-headers.conf:/etc/nginx/set-headers.conf
       - ./proxy-set-headers.conf:/etc/nginx/proxy-set-headers.conf
       - ./websocket-headers.conf:/etc/nginx/websocket-headers.conf
       - /local/data/dhparam.pem:/dhparam.pem
