@@ -13,6 +13,7 @@ services:
       - ./websocket-headers.conf:/etc/nginx/websocket-headers.conf
       - /local/data/dhparam.pem:/dhparam.pem
       - /local/data/certificates:/letsencrypt
+      - /local/data/cdn:/var/cdn:ro
       - ./html:/usr/share/nginx/html
     restart: always
     external_links:
