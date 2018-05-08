@@ -23,6 +23,10 @@ www.isaacchemistry.org,\
 isaacmaths.org,\
 www.isaacmaths.org,\
 \
+isaacbooks.org,\
+www.isaacbooks.org,\
+www.cavendish-quantum.org.uk,\
+\
 api.isaacscience.org,\
 \
 docker.isaacscience.org,\
