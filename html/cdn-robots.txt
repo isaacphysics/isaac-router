@@ -1,37 +1,38 @@
-# Isaac Physics
+# Isaac Physics CDN
 
 
-# Only allow known search engine crawlers:
+
+# Only allow known search engine crawlers, and not the /isaac/ directory:
 
 User-agent: Googlebot
-Disallow:
+Disallow:/isaac
 
 User-agent: DuckDuckBot
-Disallow:
+Disallow:/isaac
 
 User-agent: ia_archiver
-Disallow:
+Disallow:/isaac
 
 User-agent: Baiduspider
-Disallow:
+Disallow:/isaac
 
 User-agent: Bingbot
-Disallow:
+Disallow:/isaac
 
 User-agent: Slurp
-Disallow:
+Disallow:/isaac
 
 User-agent: Twitterbot
-Disallow:
+Disallow:/isaac
 
 User-agent: Facebot
-Disallow:
+Disallow:/isaac
 
 User-agent: Yandex
-Disallow:
+Disallow:/isaac
 
 User-agent: LinkedInBot
-Disallow:
+Disallow:/isaac
 
 
 # Disallow all other crawlers:
