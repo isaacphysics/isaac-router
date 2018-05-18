@@ -8,15 +8,11 @@ services:
       - "443:443"
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf
-      - ./mime.types:/etc/nginx/mime.types
-      - ./ssl.conf:/etc/nginx/ssl.conf
-      - ./set-headers.conf:/etc/nginx/set-headers.conf
-      - ./proxy-set-headers.conf:/etc/nginx/proxy-set-headers.conf
-      - ./websocket-headers.conf:/etc/nginx/websocket-headers.conf
       - /local/data/dhparam.pem:/dhparam.pem
       - /local/data/certificates:/letsencrypt
       - /local/data/cdn:/var/cdn:ro
       - ./html:/usr/share/nginx/html
+      - ./conf:/etc/nginx/conf:ro
     restart: always
     external_links:
       - "isaac-tickets:isaac-tickets"
