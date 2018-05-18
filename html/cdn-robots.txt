@@ -5,34 +5,34 @@
 # Only allow known search engine crawlers, and not the /isaac/ directory:
 
 User-agent: Googlebot
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: DuckDuckBot
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: ia_archiver
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: Baiduspider
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: Bingbot
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: Slurp
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: Twitterbot
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: Facebot
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: Yandex
-Disallow:/isaac
+Disallow: /isaac
 
 User-agent: LinkedInBot
-Disallow:/isaac
+Disallow: /isaac
 
 
 # Disallow all other crawlers:
