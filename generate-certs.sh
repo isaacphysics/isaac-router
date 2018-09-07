@@ -14,6 +14,7 @@ test.isaacphysics.org,\
 labs.isaacphysics.org,\
 tickets.isaacphysics.org,\
 editor.isaacphysics.org,\
+editor-2.isaacphysics.org,\
 cdn.isaacphysics.org,\
 monitor.isaacphysics.org,\
 \
