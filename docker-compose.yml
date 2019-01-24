@@ -14,10 +14,6 @@ services:
       - ./html:/usr/share/nginx/html
       - ./conf:/etc/nginx/conf:ro
     restart: always
-    external_links:
-      - "isaac-tickets:isaac-tickets"
-      - "isaac-editor:isaac-editor"
-      - "isaac-editor-2:isaac-editor-2"
   letsencrypt:
     container_name: letsencrypt
     build:
