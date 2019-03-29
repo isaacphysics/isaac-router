@@ -2,7 +2,7 @@ version: '2'
 services:
   router:
     container_name: isaac-router
-    image: nginx:1.14.2
+    image: nginx:1.15.10
     ports:
       - "80:80"
       - "443:443"
