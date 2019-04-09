@@ -14,15 +14,6 @@ services:
       - ./html:/usr/share/nginx/html
       - ./conf:/etc/nginx/conf:ro
     restart: always
-  letsencrypt:
-    container_name: letsencrypt
-    build:
-      context: .
-      dockerfile: Dockerfile-letsencrypt
-    image: isaac-letsencrypt
-    volumes:
-      - /local/data/certificates:/etc/letsencrypt
-      - ./html:/var/www
 networks:
   default:
     external:
