@@ -29,6 +29,9 @@ editor.isaaccomputerscience.org,\
 cdn.isaacphysics.org,\
 cdn.isaaccomputerscience.org,\
 \
+isaacomputerscience.org,\
+www.isaacomputerscience.org,\
+\
 isaacchemistry.org,\
 www.isaacchemistry.org,\
 \
@@ -46,4 +49,3 @@ owncloud.isaacscience.org\
   --email webmaster@isaacphysics.org \
   --no-eff-email \
   --agree-tos
-
