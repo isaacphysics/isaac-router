@@ -29,6 +29,7 @@ editor.isaacphysics.org,\
 editor.isaaccomputerscience.org,\
 cdn.isaacphysics.org,\
 cdn.isaaccomputerscience.org,\
+cdn.isaacscience.org,\
 \
 isaacomputerscience.org,\
 www.isaacomputerscience.org,\
