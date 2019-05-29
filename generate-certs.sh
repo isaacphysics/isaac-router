@@ -18,6 +18,7 @@ test.isaacphysics.org,\
 test.isaaccomputerscience.org,\
 \
 alpha.isaaccomputerscience.org,\
+beta.isaaccomputerscience.org,\
 \
 labs.isaacphysics.org,\
 monitor.isaacphysics.org,\
