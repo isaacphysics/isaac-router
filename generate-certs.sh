@@ -17,7 +17,6 @@ staging.isaaccomputerscience.org,\
 test.isaacphysics.org,\
 test.isaaccomputerscience.org,\
 \
-alpha.isaaccomputerscience.org,\
 beta.isaaccomputerscience.org,\
 \
 labs.isaacphysics.org,\
