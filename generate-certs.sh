@@ -13,10 +13,12 @@ live.isaaccomputerscience.org,\
 dev.isaacphysics.org,\
 dev.isaaccomputerscience.org,\
 staging.isaacphysics.org,\
+staging-2.isaacphysics.org,\
 staging.isaaccomputerscience.org,\
 test.isaacphysics.org,\
 test.isaaccomputerscience.org,\
 \
+beta.isaacphysics.org,\
 beta.isaaccomputerscience.org,\
 \
 labs.isaacphysics.org,\
