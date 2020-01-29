@@ -1,1 +1,1 @@
-docker kill --signal="HUP" isaac-router
+docker exec isaac-router nginx -t && docker kill --signal="HUP" isaac-router
