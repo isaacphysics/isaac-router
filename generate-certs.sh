@@ -21,6 +21,9 @@ test.isaaccomputerscience.org,\
 beta.isaacphysics.org,\
 beta.isaaccomputerscience.org,\
 \
+isaaccs.org,\
+www.isaaccs.org,\
+\
 labs.isaacphysics.org,\
 monitor.isaacphysics.org,\
 \
