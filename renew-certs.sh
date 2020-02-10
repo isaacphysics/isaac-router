@@ -1,4 +1,3 @@
-docker-compose run letsencrypt /letsencrypt/letsencrypt-auto \
-  renew \
-  --webroot \
-  --webroot-path /var/www
+docker run --rm -it \
+ -v /local/data/certificates:/etc/letsencrypt -v /local/src/isaac-router/html:/var/www \
+ certbot/certbot renew --webroot --webroot-path /var/www
