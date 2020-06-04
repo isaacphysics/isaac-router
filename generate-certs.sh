@@ -23,6 +23,8 @@ cdn.isaacphysics.org,\
 cdn.isaaccomputerscience.org,\
 cdn.isaacscience.org,\
 \
+maintenance.isaacphysics.org,\
+\
 isaacomputerscience.org,\
 www.isaacomputerscience.org,\
 \
