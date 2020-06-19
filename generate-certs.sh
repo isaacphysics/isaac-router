@@ -62,7 +62,6 @@ tickets.isaaccomputerscience.org,\
 editor.isaacphysics.org,\
 editor.isaaccomputerscience.org,\
 \
-api.isaacscience.org,\
 docker.isaacscience.org,\
 owncloud.isaacscience.org\
 \
