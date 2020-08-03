@@ -14,6 +14,7 @@ live.isaaccomputerscience.org,\
 \
 beta.isaacphysics.org,\
 beta.isaaccomputerscience.org,\
+old.isaacphysics.org,\
 \
 isaaccs.org,\
 www.isaaccs.org,\
