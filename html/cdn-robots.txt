@@ -1,41 +1,8 @@
-# Isaac Physics CDN
+# Isaac Physics & Isaac Computer Science CDN
 
 
-
-# Only allow known search engine crawlers, and not the /isaac/ directory:
-
-User-agent: Googlebot
-Disallow: /isaac
-
-User-agent: DuckDuckBot
-Disallow: /isaac
-
-User-agent: ia_archiver
-Disallow: /isaac
-
-User-agent: Baiduspider
-Disallow: /isaac
-
-User-agent: Bingbot
-Disallow: /isaac
-
-User-agent: Slurp
-Disallow: /isaac
-
-User-agent: Twitterbot
-Disallow: /isaac
-
-User-agent: Facebot
-Disallow: /isaac
-
-User-agent: Yandex
-Disallow: /isaac
-
-User-agent: LinkedInBot
-Disallow: /isaac
-
-
-# Disallow all other crawlers:
+# Only allow access to the logos directory, everything else should not be indexed:
 
 User-agent: *
+Allow: /isaac/logos/
 Disallow: /

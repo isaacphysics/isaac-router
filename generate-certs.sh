@@ -14,6 +14,7 @@ live.isaaccomputerscience.org,\
 \
 beta.isaacphysics.org,\
 beta.isaaccomputerscience.org,\
+old.isaacphysics.org,\
 \
 isaaccs.org,\
 www.isaaccs.org,\
@@ -62,9 +63,7 @@ tickets.isaaccomputerscience.org,\
 editor.isaacphysics.org,\
 editor.isaaccomputerscience.org,\
 \
-api.isaacscience.org,\
 docker.isaacscience.org,\
-owncloud.isaacscience.org\
 \
   --email webmaster@isaacphysics.org \
   --no-eff-email \
