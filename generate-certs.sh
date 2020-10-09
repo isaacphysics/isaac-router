@@ -64,7 +64,6 @@ editor.isaacphysics.org,\
 editor.isaaccomputerscience.org,\
 \
 docker.isaacscience.org,\
-owncloud.isaacscience.org\
 \
   --email webmaster@isaacphysics.org \
   --no-eff-email \
