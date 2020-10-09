@@ -1,4 +1,4 @@
-# Isaac Physics CDN
+# Isaac Physics & Isaac Computer Science CDN
 
 
 # Only allow access to the logos directory, everything else should not be indexed:
