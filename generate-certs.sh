@@ -39,6 +39,7 @@ isaacbooks.org,\
 www.isaacbooks.org,\
 www.cavendish-quantum.org.uk\
 \
+  --cert-name isaacphysics.org \
   --email webmaster@isaacphysics.org \
   --no-eff-email \
   --agree-tos \
@@ -65,6 +66,7 @@ editor.isaaccomputerscience.org,\
 \
 docker.isaacscience.org,\
 \
+  --cert-name dev.isaacphysics.org \
   --email webmaster@isaacphysics.org \
   --no-eff-email \
   --agree-tos
