@@ -64,7 +64,7 @@ tickets.isaaccomputerscience.org,\
 editor.isaacphysics.org,\
 editor.isaaccomputerscience.org,\
 \
-docker.isaacscience.org,\
+docker.isaacscience.org\
 \
   --cert-name dev.isaacphysics.org \
   --email webmaster@isaacphysics.org \
