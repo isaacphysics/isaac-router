@@ -19,6 +19,9 @@ old.isaacphysics.org,\
 isaaccs.org,\
 www.isaaccs.org,\
 \
+isaaccode.org,\
+editor.isaaccode.org,\
+\
 labs.isaacphysics.org,\
 cdn.isaacphysics.org,\
 cdn.isaaccomputerscience.org,\
