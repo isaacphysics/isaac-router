@@ -29,6 +29,12 @@ cdn.isaacscience.org,\
 \
 maintenance.isaacphysics.org,\
 \
+isaacphysics.co.uk,\
+isaacphysics.com,\
+\
+isaaccomputerscience.co.uk,\
+isaaccomputerscience.com,\
+\
 isaacomputerscience.org,\
 www.isaacomputerscience.org,\
 \
