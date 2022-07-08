@@ -70,8 +70,11 @@ monitor.isaacphysics.org,\
 \
 tickets.isaacphysics.org,\
 tickets.isaaccomputerscience.org,\
+\
 editor.isaacphysics.org,\
 editor.isaaccomputerscience.org,\
+editor-preview.isaacphysics.org,\
+editor-preview.isaaccomputerscience.org,\
 \
 docker.isaacscience.org\
 \
