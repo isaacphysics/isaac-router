@@ -19,12 +19,20 @@ old.isaacphysics.org,\
 isaaccs.org,\
 www.isaaccs.org,\
 \
-labs.isaacphysics.org,\
+isaaccode.org,\
+editor.isaaccode.org,\
+\
 cdn.isaacphysics.org,\
 cdn.isaaccomputerscience.org,\
 cdn.isaacscience.org,\
 \
 maintenance.isaacphysics.org,\
+\
+isaacphysics.co.uk,\
+isaacphysics.com,\
+\
+isaaccomputerscience.co.uk,\
+isaaccomputerscience.com,\
 \
 isaacomputerscience.org,\
 www.isaacomputerscience.org,\
@@ -39,6 +47,7 @@ isaacbooks.org,\
 www.isaacbooks.org,\
 www.cavendish-quantum.org.uk\
 \
+  --cert-name isaacphysics.org \
   --email webmaster@isaacphysics.org \
   --no-eff-email \
   --agree-tos \
@@ -60,11 +69,15 @@ monitor.isaacphysics.org,\
 \
 tickets.isaacphysics.org,\
 tickets.isaaccomputerscience.org,\
+\
 editor.isaacphysics.org,\
 editor.isaaccomputerscience.org,\
+editor-preview.isaacphysics.org,\
+editor-preview.isaaccomputerscience.org,\
 \
-docker.isaacscience.org,\
+docker.isaacscience.org\
 \
+  --cert-name dev.isaacphysics.org \
   --email webmaster@isaacphysics.org \
   --no-eff-email \
   --agree-tos

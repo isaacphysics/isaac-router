@@ -2,10 +2,10 @@ version: '2'
 services:
   router:
     container_name: isaac-router
-    image: nginx:1.18
+    image: nginx:1.22
     ports:
-      - "80:80"
-      - "443:443"
+      - "0.0.0.0:80:80"
+      - "0.0.0.0:443:443"
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf
       - /local/data/dhparam.pem:/dhparam.pem
