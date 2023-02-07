@@ -45,6 +45,7 @@ www.isaacmaths.org,\
 \
 isaacbooks.org,\
 www.isaacbooks.org,\
+outreach.cao.cam.ac.uk,\
 www.cavendish-quantum.org.uk\
 \
   --cert-name isaacphysics.org \
