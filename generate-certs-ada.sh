@@ -5,4 +5,5 @@ docker run --rm -it \
  certbot/dns-cloudflare certonly \
   --dns-cloudflare \
   --dns-cloudflare-credentials /etc/cloudflare-dns/cloudflare-api-token.ini \
+  -d adacomputerscience.org \
   -d *.adacomputerscience.org
