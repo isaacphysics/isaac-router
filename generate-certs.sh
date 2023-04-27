@@ -71,7 +71,8 @@ editor.adacomputerscience.org,\
 editor-preview.isaacphysics.org,\
 editor-preview.adacomputerscience.org,\
 \
-docker.isaacscience.org\
+docker.isaacscience.org,\
+script-dispatcher.isaacscience.org\
 \
   --cert-name dev.isaacphysics.org \
   --email webmaster@isaacphysics.org \
