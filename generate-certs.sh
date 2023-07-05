@@ -5,9 +5,11 @@ docker run --rm -it \
 \
 isaacphysics.org,\
 www.isaacphysics.org,\
+plausible.isaacphysics.org,\
 \
 adacomputerscience.org,\
 www.adacomputerscience.org,\
+plausible.adacomputerscience.org,\
 \
 live.isaacphysics.org,\
 \
