@@ -17,7 +17,6 @@ beta.isaacphysics.org,\
 old.isaacphysics.org,\
 \
 ada-cs.org,\
-www.ada-cs.org,\
 \
 code-editor.ada-cs.org,\
 \
