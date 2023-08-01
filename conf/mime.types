@@ -4,7 +4,7 @@ types {
     text/xml                                         xml;
     image/gif                                        gif;
     image/jpeg                                       jpeg jpg;
-    application/javascript                           js;
+    text/javascript                                  js;
     application/atom+xml                             atom;
     application/rss+xml                              rss;
 
@@ -23,9 +23,12 @@ types {
     image/x-icon                                     ico;
     image/x-jng                                      jng;
     image/x-ms-bmp                                   bmp;
+    image/avif                                       avif;
 
-    application/font-woff                            woff;
-    application/font-sfnt                            otf;
+    font/woff                                        woff;
+    font/woff2                                       woff2;
+    font/otf                                         otf;
+
     application/java-archive                         jar war ear;
     application/json                                 json;
     application/mac-binhex40                         hqx;
@@ -66,7 +69,7 @@ types {
     application/xspf+xml                             xspf;
     application/zip                                  zip;
     application/wasm                                 wasm;
-    application/vnd.sqlite3                          sqlite;
+    application/vnd.sqlite3                          sqlite sqlite3;
 
     application/octet-stream                         bin exe dll;
     application/octet-stream                         deb;
