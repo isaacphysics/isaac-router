@@ -66,6 +66,7 @@ types {
     application/xspf+xml                             xspf;
     application/zip                                  zip;
     application/wasm                                 wasm;
+    application/vnd.sqlite3                          sqlite;
 
     application/octet-stream                         bin exe dll;
     application/octet-stream                         deb;
