@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@isaacphysics.org
+Expires: 2025-11-12T17:30:00.000Z
+Encryption: https://cdn.isaacphysics.org/isaac/security/security-isaacphysics-20231114.txt
+Preferred-Languages: en
+Canonical: https://isaacphysics.org/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJOBAEBCgA4FiEE2wzg6EugcfkG5v6Jbei0NmgKxdIFAmVTXr0aHHNlY3VyaXR5
+QGlzYWFjcGh5c2ljcy5vcmcACgkQbei0NmgKxdIVzRAAsjyQNk+AAyOHWwJHPUnu
+z8AW+ZlopenHFmwUEhYL1oRzkWUoxZkAiSdbpm6LpUFkOLqnL+t6VLTU2rNkVsjo
+rdBpYIJlVuL4rZCqUAamCB4C7alglYWks8oo3jkvq5YpdfZDWp0mQwZ/LcV1Vcj4
+2AR8apkwcRxBgwmyQN6IgOdzL0+SOiWFVy8NM8LvQnU9LSbt22nOUkDB3YcX9s/K
+VUzhuJSimT/1AiBBFvBrVxpHGuVKMN1HxBeR4HBddmbEPVFvw5H0Kzo4WtKUBe0g
+T2d9W4+Sz7xSVh657kNZkXTFKix9bcPGVz7x57OPHTj74hSx1yZKvBNdX+t4cGdK
+gxSWoYCPovcwYhRFFDk2LzRp+FhFmHDl5ylxKS99AtJYfOxZG1Pypiv0QXhVYxrG
+JBi7lWDD2ABAgwcO4YVMgWptd57ltTWNXyxIjARZ+ubcEXQgAmuNCrsU3JleVCkC
+9ZRtGDy/HjI4kAHo/y8yizd+qtgZWHfuWf2JYMvwyJX+cyoihrvipbMFq8KGmXhC
+7jRRemv0//12a4LWIv73dYK8rr7VyuO2p3NWM3pBZKUs8+PsMuM7vgjjdOvMxR9s
+tjbdYctxlAb658HcS9WTjfc/p0nyyBQZ+yeG/uwqaOSVYrnAuQCfUxGus+SLf65q
+vfKaih7h8+P07oGxyxan4s0=
+=KNsI
+-----END PGP SIGNATURE-----
