@@ -5,9 +5,11 @@ docker run --rm -it \
 \
 isaacphysics.org,\
 www.isaacphysics.org,\
+plausible.isaacphysics.org,\
 \
 adacomputerscience.org,\
 www.adacomputerscience.org,\
+plausible.adacomputerscience.org,\
 \
 live.isaacphysics.org,\
 \
@@ -15,7 +17,6 @@ beta.isaacphysics.org,\
 old.isaacphysics.org,\
 \
 ada-cs.org,\
-www.ada-cs.org,\
 \
 code-editor.ada-cs.org,\
 \
