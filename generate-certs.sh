@@ -20,6 +20,8 @@ ada-cs.org,\
 \
 code-editor.ada-cs.org,\
 \
+marker.adacomputerscience.org, \
+\
 cdn.isaacphysics.org,\
 cdn.adacomputerscience.org,\
 cdn.isaacscience.org,\
