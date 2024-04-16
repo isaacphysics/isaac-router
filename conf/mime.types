@@ -70,6 +70,7 @@ types {
     application/zip                                  zip;
     application/wasm                                 wasm;
     application/vnd.sqlite3                          sqlite sqlite3;
+    application/x-apkg                               apkg;
 
     application/octet-stream                         bin exe dll;
     application/octet-stream                         deb;
