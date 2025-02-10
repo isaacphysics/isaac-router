@@ -35,6 +35,9 @@ adacomputerscience.com,\
 isaacchemistry.org,\
 www.isaacchemistry.org,\
 \
+isaacbiology.org,\
+www.isaacbiology.org,\
+\
 isaacmaths.org,\
 www.isaacmaths.org,\
 \
