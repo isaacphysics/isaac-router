@@ -14,6 +14,7 @@ types {
     text/vnd.wap.wml                                 wml;
     text/x-component                                 htc;
     text/csv                                         csv;
+    text/calendar                                    ics;
 
     image/png                                        png;
     image/svg+xml                                    svg svgz;
@@ -70,6 +71,7 @@ types {
     application/zip                                  zip;
     application/wasm                                 wasm;
     application/vnd.sqlite3                          sqlite sqlite3;
+    application/x-apkg                               apkg;
 
     application/octet-stream                         bin exe dll;
     application/octet-stream                         deb;

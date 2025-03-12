@@ -13,9 +13,6 @@ plausible.adacomputerscience.org,\
 \
 live.isaacphysics.org,\
 \
-beta.isaacphysics.org,\
-old.isaacphysics.org,\
-\
 ada-cs.org,\
 \
 code-editor.ada-cs.org,\
@@ -34,6 +31,9 @@ adacomputerscience.com,\
 \
 isaacchemistry.org,\
 www.isaacchemistry.org,\
+\
+isaacbiology.org,\
+www.isaacbiology.org,\
 \
 isaacmaths.org,\
 www.isaacmaths.org,\
