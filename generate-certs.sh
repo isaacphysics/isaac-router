@@ -60,6 +60,7 @@ staging-2.isaacphysics.org,\
 staging.adacomputerscience.org,\
 test.isaacphysics.org,\
 test.adacomputerscience.org,\
+redesign.isaacphysics.org,\
 \
 monitor.isaacphysics.org,\
 \
