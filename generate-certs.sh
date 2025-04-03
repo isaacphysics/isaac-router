@@ -41,7 +41,7 @@ isaacmaths.org,\
 www.isaacmaths.org,\
 \
 isaacbooks.org,\
-www.isaacbooks.org,\
+www.isaacbooks.org\
 \
   --cert-name isaacphysics.org \
   --email webmaster@isaacphysics.org \
