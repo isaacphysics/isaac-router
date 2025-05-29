@@ -26,6 +26,8 @@ isaacphysics.com,\
 \
 isaacscience.org,\
 www.isaacscience.org,\
+plausible.isaacscience.org,\
+\
 isaacscience.co.uk,\
 isaacscience.com,\
 \
