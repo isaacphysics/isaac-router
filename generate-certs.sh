@@ -11,8 +11,6 @@ adacomputerscience.org,\
 www.adacomputerscience.org,\
 plausible.adacomputerscience.org,\
 \
-live.isaacphysics.org,\
-\
 ada-cs.org,\
 \
 code-editor.ada-cs.org,\
@@ -25,6 +23,13 @@ maintenance.isaacphysics.org,\
 \
 isaacphysics.co.uk,\
 isaacphysics.com,\
+\
+isaacscience.org,\
+www.isaacscience.org,\
+plausible.isaacscience.org,\
+\
+isaacscience.co.uk,\
+isaacscience.com,\
 \
 adacomputerscience.co.uk,\
 adacomputerscience.com,\
@@ -39,9 +44,7 @@ isaacmaths.org,\
 www.isaacmaths.org,\
 \
 isaacbooks.org,\
-www.isaacbooks.org,\
-outreach.cao.cam.ac.uk,\
-www.cavendish-quantum.org.uk\
+www.isaacbooks.org\
 \
   --cert-name isaacphysics.org \
   --email webmaster@isaacphysics.org \
@@ -60,6 +63,7 @@ staging-2.isaacphysics.org,\
 staging.adacomputerscience.org,\
 test.isaacphysics.org,\
 test.adacomputerscience.org,\
+redesign.isaacphysics.org,\
 \
 monitor.isaacphysics.org,\
 \
