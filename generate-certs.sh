@@ -57,11 +57,14 @@ docker run --rm -it \
  certbot/certbot certonly --webroot --webroot-path /var/www --domains \
 \
 dev.isaacphysics.org,\
+dev.isaacscience.org,\
 dev.adacomputerscience.org,\
 staging.isaacphysics.org,\
+staging.isaacscience.org,\
 staging-2.isaacphysics.org,\
 staging.adacomputerscience.org,\
 test.isaacphysics.org,\
+test.isaacscience.org,\
 test.adacomputerscience.org,\
 redesign.isaacphysics.org,\
 \
