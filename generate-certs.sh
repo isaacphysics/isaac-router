@@ -66,7 +66,6 @@ staging.adacomputerscience.org,\
 test.isaacphysics.org,\
 test.isaacscience.org,\
 test.adacomputerscience.org,\
-redesign.isaacphysics.org,\
 \
 monitor.isaacphysics.org,\
 \
