@@ -4,15 +4,12 @@ docker run --rm -it \
  certbot/certbot certonly --webroot --webroot-path /var/www --domains \
 \
 isaacphysics.org,\
-www.isaacphysics.org,\
 plausible.isaacphysics.org,\
 \
 adacomputerscience.org,\
-www.adacomputerscience.org,\
 plausible.adacomputerscience.org,\
 \
 ada-cs.org,\
-\
 code-editor.ada-cs.org,\
 \
 cdn.isaacphysics.org,\
@@ -21,30 +18,8 @@ cdn.isaacscience.org,\
 \
 maintenance.isaacphysics.org,\
 \
-isaacphysics.co.uk,\
-isaacphysics.com,\
-\
 isaacscience.org,\
-www.isaacscience.org,\
-plausible.isaacscience.org,\
-\
-isaacscience.co.uk,\
-isaacscience.com,\
-\
-adacomputerscience.co.uk,\
-adacomputerscience.com,\
-\
-isaacchemistry.org,\
-www.isaacchemistry.org,\
-\
-isaacbiology.org,\
-www.isaacbiology.org,\
-\
-isaacmaths.org,\
-www.isaacmaths.org,\
-\
-isaacbooks.org,\
-www.isaacbooks.org\
+plausible.isaacscience.org\
 \
   --cert-name isaacphysics.org \
   --email webmaster@isaacphysics.org \
@@ -82,6 +57,44 @@ docker.isaacscience.org,\
 script-dispatcher.isaacscience.org\
 \
   --cert-name dev.isaacphysics.org \
+  --email webmaster@isaacphysics.org \
+  --no-eff-email \
+  --agree-tos \
+ && # Redirects, hopefully mostly unused sites:
+docker run --rm -it \
+ -v /local/data/certificates:/etc/letsencrypt -v /local/src/isaac-router/html:/var/www \
+ certbot/certbot certonly --webroot --webroot-path /var/www --domains \
+\
+isaacscience.com,\
+\
+adacomputerscience.co.uk,\
+adacomputerscience.com,\
+www.adacomputerscience.org,\
+\
+isaacbiology.org,\
+www.isaacbiology.org,\
+\
+isaacchemistry.org,\
+www.isaacchemistry.org,\
+\
+isaacmaths.org,\
+www.isaacmaths.org,\
+\
+isaacphysics.co.uk,\
+isaacphysics.com,\
+www.isaacphysics.org,\
+\
+isaacscience.co.uk,\
+issacscience.org,\
+www.isaacscience.org,\
+www.issacscience.org,\
+\
+isaacbooks.org,\
+www.isaacbooks.org,\
+\
+www.rutherford-physics.org.uk\
+\
+  --cert-name isaacscience.com \
   --email webmaster@isaacphysics.org \
   --no-eff-email \
   --agree-tos
