@@ -1,6 +1,6 @@
 # isaac-router
 
-The main [nginx](https://www.nginx.com/resources/wiki/) router, load-balancer, and SSL terminating proxy for Isaac Physics and Isaac Computer Science. It serves only static assets (CDN) and error pages, otherwise proxying traffic to the relevant container.
+The main [nginx](https://www.nginx.com/resources/wiki/) router, load-balancer, and SSL terminating proxy for Isaac Science and Ada Computer Science. It serves only static assets (CDN) and error pages, otherwise proxying traffic to the relevant container.
 
 ## Let's Encrypt
 
