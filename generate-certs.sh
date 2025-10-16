@@ -92,6 +92,8 @@ www.issacscience.org,\
 isaacbooks.org,\
 www.isaacbooks.org,\
 \
+moodle.isaacscience.org,\
+\
 www.rutherford-physics.org.uk\
 \
   --cert-name isaacscience.com \
