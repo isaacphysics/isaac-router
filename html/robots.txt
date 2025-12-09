@@ -1,4 +1,4 @@
-# Isaac Physics & Isaac Computer Science
+# Isaac Science & Ada Computer Science
 
 
 # Only allow known search engine crawlers:
