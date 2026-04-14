@@ -1,26 +1,27 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
-Contact: mailto:security@isaacphysics.org
-Expires: 2025-11-12T17:30:00.000Z
-Encryption: https://cdn.isaacphysics.org/isaac/security/security-isaacphysics-20231114.txt
+Contact: mailto:security@isaacscience.org
+Contact: mailto:security@adacomputerscience.org
+Expires: 2027-10-30T23:00:00.000Z
+Encryption: https://cdn.isaacscience.org/isaac/security/security-gpg-20251028.txt
+Encryption: https://cdn.adacomputerscience.org/isaac/security/security-gpg-20251028.txt
 Preferred-Languages: en
-Canonical: https://isaacphysics.org/.well-known/security.txt
-
+Canonical: https://isaacscience.org/.well-known/security.txt
+Canonical: https://adacomputerscience.org/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
-iQJOBAEBCgA4FiEE2wzg6EugcfkG5v6Jbei0NmgKxdIFAmVTXr0aHHNlY3VyaXR5
-QGlzYWFjcGh5c2ljcy5vcmcACgkQbei0NmgKxdIVzRAAsjyQNk+AAyOHWwJHPUnu
-z8AW+ZlopenHFmwUEhYL1oRzkWUoxZkAiSdbpm6LpUFkOLqnL+t6VLTU2rNkVsjo
-rdBpYIJlVuL4rZCqUAamCB4C7alglYWks8oo3jkvq5YpdfZDWp0mQwZ/LcV1Vcj4
-2AR8apkwcRxBgwmyQN6IgOdzL0+SOiWFVy8NM8LvQnU9LSbt22nOUkDB3YcX9s/K
-VUzhuJSimT/1AiBBFvBrVxpHGuVKMN1HxBeR4HBddmbEPVFvw5H0Kzo4WtKUBe0g
-T2d9W4+Sz7xSVh657kNZkXTFKix9bcPGVz7x57OPHTj74hSx1yZKvBNdX+t4cGdK
-gxSWoYCPovcwYhRFFDk2LzRp+FhFmHDl5ylxKS99AtJYfOxZG1Pypiv0QXhVYxrG
-JBi7lWDD2ABAgwcO4YVMgWptd57ltTWNXyxIjARZ+ubcEXQgAmuNCrsU3JleVCkC
-9ZRtGDy/HjI4kAHo/y8yizd+qtgZWHfuWf2JYMvwyJX+cyoihrvipbMFq8KGmXhC
-7jRRemv0//12a4LWIv73dYK8rr7VyuO2p3NWM3pBZKUs8+PsMuM7vgjjdOvMxR9s
-tjbdYctxlAb658HcS9WTjfc/p0nyyBQZ+yeG/uwqaOSVYrnAuQCfUxGus+SLf65q
-vfKaih7h8+P07oGxyxan4s0=
-=KNsI
+iQIzBAEBCAAdFiEE2wzg6EugcfkG5v6Jbei0NmgKxdIFAmkAu3wACgkQbei0NmgK
+xdIxdg/9EJlsQAIoCxA6iA4NArfZBS+mRWxwqB8fZUtrsERB6cAF2mmAOhD9/kUh
+wXk2MpDqc8mcArf2aEjIYjG0lfnFsQKYJxbgH04k4T9p28hFBlK73LIlq4eKDxTw
+cHN39i/oSwfNdAlbL/Dx96y4ZWuKPKMHPZqY78da/jJu5qwFto/nbK/VS8moUKBf
+/dAcGWnEvzpnLhfKaGB4CW/OBYAVv59gFP4JdP/J53c5lWq/Fn/06ValP2jDhnZx
+nHv35EAFHSbCT5+aPQN0Y/qXNsYYfVLYmqxTAYxLz0ppQfdZObq5Cvg2MO5rHxD9
+nKmNFmglogaM+tYJoKNJkuSwxjaYq6kh+6faXalPGtjeU1c+c1mw0WCSLpHcqlqA
++LGXQZBpDVWYVBn3uw/6Y5D8VJOoBa2FBcPPDFMsQ3w3gZEIdS0PK58R/W8jmt8r
+nhu8JIjcd0x1rul4YjbAzWsK2bmDF63DKWY0TLruTKTUJWpnlMnhWqdIT/muqfQj
+j4LwZgRhlt+3YyzysJjczPRHwzrCaLRwBqOPwnu9HOQiOU1QC5XEfUo+QePUza4H
+bPI3qMX8TJphILD9hqM5wjWnQBmCrdB0ZT56KnTItDCGX6AVw9Tpex9icP0+ZlDP
+5JY1ZRtvXWPgSD2EYPnrtxDcgbu8HXLB92gfcVTbuVEuRlM0tk8=
+=trw1
 -----END PGP SIGNATURE-----

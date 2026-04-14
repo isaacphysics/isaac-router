@@ -1,8 +1,7 @@
-version: '2'
 services:
   router:
     container_name: isaac-router
-    image: nginx:1.26
+    image: nginx:1.28
     ports:
       - "0.0.0.0:80:80"
       - "0.0.0.0:443:443"
@@ -16,5 +15,5 @@ services:
     restart: always
 networks:
   default:
-    external:
-      name: isaac
+    name: isaac
+    external: true
