@@ -1,0 +1,52 @@
+# Ada Computer Science
+
+
+# Only allow known search engine crawlers:
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
+User-agent: ia_archiver
+Disallow:
+
+User-agent: Baiduspider
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: Slurp
+Disallow:
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: Facebot
+Disallow:
+
+User-agent: Yandex
+Disallow:
+
+User-agent: LinkedInBot
+Disallow:
+
+User-agent: OAI-SearchBot
+Disallow:
+
+User-agent: Claude-SearchBot
+Disallow:
+
+User-agent: PerplexityBot
+Disallow:
+
+# Disallow all other crawlers:
+
+User-agent: *
+Disallow: /
+
+# Sitemap:
+
+Sitemap: https://adacomputerscience.org/sitemap.xml
