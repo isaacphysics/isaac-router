@@ -9,19 +9,28 @@ services:
       - /local/data/cdn:/var/cdn:ro
       - ./html:/usr/share/nginx/html
       - ./conf:/etc/nginx/conf:ro
+    networks:
+      - isaac
     restart: always
 
-  haproxy:
-    image: haproxy:alpine
-    container_name: haproxy
-    restart: unless-stopped
+  loadbalancer:
+    image: haproxy:3.4
+    container_name: isaac-loadbalancer
     ports:
-      - "0.0.0.0:80:80"
-      - "0.0.0.0:443:443"
+      - "80:80"
+      - "443:443"
     volumes:
       - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
+    networks:
+      - isaac
+      - isaacipv6
+    restart: always 
 
 networks:
   default:
+  isaac:
     name: isaac
+    external: true
+  isaacipv6:
+    name: isaacipv6
     external: true
