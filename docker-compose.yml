@@ -24,7 +24,7 @@ services:
     networks:
       - isaac
       - isaacipv6
-    restart: always 
+    restart: always
 
 networks:
   default:
