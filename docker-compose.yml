@@ -22,6 +22,7 @@ services:
     volumes:
       - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
       - /local/data/haproxy/credentials.cfg:/usr/local/etc/haproxy/credentials.cfg:ro
+      - /local/data/haproxy/haproxy.pem:/certs/internal.pem:ro
     environment:
       - REMOTE_SERVER_IP=$REMOTE_SERVER_IP
     networks:
