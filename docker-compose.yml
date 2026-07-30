@@ -20,12 +20,14 @@ services:
       - "80:80"
       - "443:443"
     volumes:
+      - ./credentials.cfg:/usr/local/etc/haproxy/credentials.cfg:ro
       - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
     environment:
       - REMOTE_SERVER_IP=$REMOTE_SERVER_IP
     networks:
       - isaac
       - isaacipv6
+    command: haproxy -f /usr/local/etc/haproxy/
     restart: always
 
 networks:
