@@ -10,7 +10,8 @@ services:
       - ./html:/usr/share/nginx/html:ro
       - ./conf:/etc/nginx/conf:ro
     networks:
-      - isaac
+      isaac:
+        ipv4_address: "${ROUTER_IP}"
     restart: always
 
   loadbalancer:
@@ -24,8 +25,9 @@ services:
     environment:
       - REMOTE_SERVER_IP=$REMOTE_SERVER_IP
     networks:
-      - isaac
-      - isaacipv6
+      isaac:
+        ipv4_address: "${LOADBALANCER_IP}"
+      isaacipv6:
     restart: always
 
 networks:
