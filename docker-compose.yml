@@ -20,6 +20,7 @@ services:
     ports:
       - "80:80"
       - "443:443"
+      # [Do not expose 8404 here]
     volumes:
       - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
       - /local/data/haproxy/credentials.cfg:/usr/local/etc/haproxy/credentials.cfg:ro
