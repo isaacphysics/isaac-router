@@ -22,12 +22,15 @@ services:
       - "443:443"
     volumes:
       - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
+      - /local/data/haproxy/credentials.cfg:/usr/local/etc/haproxy/credentials.cfg:ro
+      - /local/data/haproxy/haproxy.pem:/certs/internal.pem:ro
     environment:
       - REMOTE_SERVER_IP=$REMOTE_SERVER_IP
     networks:
       isaac:
         ipv4_address: "${LOADBALANCER_IP}"
       isaacipv6:
+    command: haproxy -C /usr/local/etc/haproxy -f haproxy.cfg -f credentials.cfg
     restart: always
 
 networks:
